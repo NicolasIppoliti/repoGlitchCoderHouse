@@ -1,0 +1,27 @@
+{
+  "name": "repoglitchcoderhouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasIppoliti/repoGlitchCoderHouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasIppoliti/repoGlitchCoderHouse/issues"
+  },
+  "homepage": "https://github.com/NicolasIppoliti/repoGlitchCoderHouse#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.4",
+    "socket.io": "^4.6.1"
+  }
+}
